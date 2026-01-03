@@ -5,6 +5,7 @@
   <p>An independent scripter from Indonesia - Founder of AltherPride</p>
   <a href="https://instagram.com/dstarzkyy_"><img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white" title="Melovart Instagram"></a>
   <a href="https://discord.gg/fcQwMekMmt"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff" title="AltherPride Discord"></a>
+  <a href="https://github.com/AltherPride"><img src="https://img.shields.io/badge/organization-000000?style=for-the-badge&logo=github&logoColor=ffffff" title="AltherPride Organization"></a>
 </div>
 
 ---
