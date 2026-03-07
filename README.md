@@ -9,10 +9,10 @@
 
 ---
 
-### Programming Languages:
+### Tech Stack:
 
 <a href="https://www.php.net"><img alt="Hypertext Preprocessor" src="https://img.shields.io/badge/php-777BB3?style=for-the-badge&logo=php&logoColor=ffffff" title="Hypertext Preprocessor"></a>
-<img alt="HyperText Markup Language" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" title="HyperText Markup Language">
+<img alt="HyperText Markup Language" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" title="HyperText Markup Language">
 <img alt="Cascading Style Sheets" src="https://img.shields.io/badge/css-264DE4?style=for-the-badge&logo=css" title="Cascading Style Sheets">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" title="JavaScript">
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" title="TypeScript">
@@ -31,7 +31,7 @@
   
   <a href="https://altherpride.my.id"><img src="https://cdn.altherpride.my.id/images/alther.png" width="60px" height="60px"></a>
   
-  <p>From start to finish, it was just me, my laptop, VSCode, PHP, and coffee keeping me company. A framework? I see that as a shortcut, while I prefer to pave my own way. Every router, logic, function, session, and database query was written manually. This site is not just a project, but proof that determination can replace a framework.</p>
+  <p>From start to finish, it was just me, my computer, VSCode, PHP, and coffee keeping me company. A framework? I see that as a shortcut, while I prefer to pave my own way. Every router, logic, function, session, and database query was written manually. This site is not just a project, but proof that determination can replace a framework.</p>
   
   <a href="https://altherpride.my.id"><img src="https://img.shields.io/badge/altherpride_site-ffbf00?style=for-the-badge" title="AltherPride"></a>
 
